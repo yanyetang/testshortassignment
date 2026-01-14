@@ -1,4 +1,4 @@
-import { Reverse } from "./Reverse.js";
+const { Reverse } = require("./Reverse.js");
 
 describe("reverse elements in an array", () => {
   it.each([

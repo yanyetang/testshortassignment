@@ -1,13 +1,12 @@
 {
   "name": "ica",
   "version": "1.0.0",
-  "type": "module",
   "devDependencies": {
     "jest": "^30.2.0"
   },
   "scripts": {
-    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js",
-    "watch": "node --experimental-vm-modules node_modules/jest/bin/jest.js --watchAll",
+    "test": "jest",
+    "watch": "jest --watchAll",
     "coverage": "npm test -- --coverage"
   },
   "author": "",
