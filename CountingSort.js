@@ -9,7 +9,7 @@
  */
 
 const countingSort = (arr, min, max) => {
-  module.exports = { countingSort };
+  
   // Create an auxiliary resultant array
   const res = [];
   // Create and initialize the frequency[count] array
@@ -36,3 +36,5 @@ const countingSort = (arr, min, max) => {
  */
 // const array = [3, 0, 2, 5, 4, 1]
 // countingSort(array, 0, 5)
+
+module.exports = { countingSort };
