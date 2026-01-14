@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1768411647218" clover="3.2.0">
-  <project timestamp="1768411647218" name="All files">
+<coverage generated="1768415654644" clover="3.2.0">
+  <project timestamp="1768415654644" name="All files">
     <metrics statements="20" coveredstatements="20" conditionals="14" coveredconditionals="14" methods="3" coveredmethods="3" elements="37" coveredelements="37" complexity="0" loc="20" ncloc="20" packages="1" files="2" classes="2"/>
     <file name="BinarySearch.js" path="C:\Users\W0526737\OneDrive - Nova Scotia Community College\Documents\testshortassignment\BinarySearch.js">
       <metrics statements="16" coveredstatements="16" conditionals="14" coveredconditionals="14" methods="2" coveredmethods="2"/>
